@@ -1,4 +1,11 @@
+using TiendaJK.Models;
+using TiendaJK.Services;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.Configure<DatabaseSettingscs>(
+    builder.Configuration.GetSection("ConnectionStrings"));
+builder.Services.AddSingleton<ClienteService>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
