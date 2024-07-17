@@ -9,9 +9,12 @@ namespace TiendaJK.Controllers
     {
         private readonly ClienteService _clienteService;
         public ClientesController(ClienteService clienteService)
-        
-            _clienteService = clienteService;
+        {
 
+
+            _clienteService = clienteService;
+        }
+              
             public async Task<IActionResult> Index()=> View(await _clienteService.GetAsync());
 
             public async Task<IActionResult> Details(string id)
@@ -74,7 +77,7 @@ namespace TiendaJK.Controllers
         }
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Delete(string id)
+        public async Task<IActionResult> DeleteConfirmed(string id)
         {
             await _clienteService.RemoveAsync(id);
             return RedirectToAction(nameof(Index));
