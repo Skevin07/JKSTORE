@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 
-*{
-    font-family; 'Poppins', sans-serif;
+* {
+    font-family;
+    'Poppins',
+    sans-serif;
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -10,7 +12,7 @@
     list-style: none;
 }
 
-:root{
+:root {
     --color-texto: #011627;
     --color-fondo: #f8f9fa;
     --color-primario: #0466c8;
@@ -19,13 +21,13 @@
     --funete-p: 1rem;
 }
 
-body{
+body {
     background-color: var(--color-fondo);
     color: var(--color-texto);
 }
 
 /* Esto es para las posiciones de las letras */
-header{
+header {
     position: fixed;
     top: 0;
     right: 0;
@@ -39,7 +41,7 @@ header{
 }
 
 /* Esto es para las caracteristias del logo  */
-.logo{
+.logo {
     display: flex;
     align-items: center;
     color: var(--color-texto);
@@ -47,7 +49,7 @@ header{
     font-weight: bold;
 }
 
-.logo i{
+.logo i {
     vertical-align: middle;
     color: var(--color-primario);
     font-size: 27px;
@@ -55,12 +57,12 @@ header{
 }
 
 
-.listanav{
+.listanav {
     display: flex;
 
 }
 
-.listanav a{
+.listanav a {
     font-size: var(--funete-p);
     color: var(--color-texto);
     font-weight: 600;
@@ -68,40 +70,40 @@ header{
     transition: all ease .55s;
 }
 
-.listanav a:hover{
+.listanav a:hover {
     color: var(--color-primario);
 }
 
-.listanav a.activo{
+.listanav a.activo {
     color: var(--color-primario);
 }
 
 
-.nav-derecha{
+.nav-derecha {
     display: flex;
     align-items: center;
 }
 
 /* Para el boton de comprar se le agrega un cuadro y color*/
-.nav-btn{
-display: inline-block;
-padding: 10px 25px;
-color: var(--color-fondo);
-background: var(--color-primario);
-font-size: 14px;
-font-weight: 500;
-border-radius: 5px;
-margin-right: 20px;
-transition: all ease .55s;
+.nav-btn {
+    display: inline-block;
+    padding: 10px 25px;
+    color: var(--color-fondo);
+    background: var(--color-primario);
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 5px;
+    margin-right: 20px;
+    transition: all ease .55s;
 }
 
-.nav-btn:hover{
+.nav-btn:hover {
     background: transparent;
     border: 2px solid var(--color-texto);
     color: var(--color-texto);
 }
 
-#darkmode{
+#darkmode {
     font-size: 30px;
     cursor: pointer;
     color: var(--color-texto);
@@ -109,11 +111,11 @@ transition: all ease .55s;
 }
 
 
-section{
+section {
     padding: 0 10%;
 }
 
-.contenido{
+.contenido {
     position: relative;
     width: 100%;
     height: 100vh;
@@ -123,18 +125,18 @@ section{
     align-items: center;
 }
 
-.contenido-img{
+.contenido-img {
     height: 550px;
     width: 550px;
 }
 
-.contenido-img img{
+.contenido-img img {
     width: 100%;
     height: 100%;
     object-fit: contain;
 }
 
-.contenido-in{
+.contenido-in {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     align-items: center;
@@ -142,14 +144,14 @@ section{
     gap: 1.5rem;
 }
 
-.contenido-texto h1{
+.contenido-texto h1 {
     font-size: var(--fuente-grande);
     height: 1.3;
     font-weight: 800;
     margin-top: 5.5rem;
 }
 
-.contenido-texto h4{
+.contenido-texto h4 {
     margin: 2px 0 20px;
     color: var(--color-primario);
     text-transform: uppercase;
@@ -158,7 +160,7 @@ section{
     font-weight: 400;
 }
 
-.contenido-texto p{
+.contenido-texto p {
     color: var(--color-texto);
     font-size: 13px;
     font-weight: 500;
@@ -167,7 +169,7 @@ section{
 
 }
 
-.contenedor{
+.contenedor {
     background-color: var(--color-secundario);
     padding: 25px 40px;
     border-radius: 1rem;
@@ -176,24 +178,45 @@ section{
 }
 
 
-.contenedor img{
+.contenedor img {
     max-width: 100%;
     height: auto;
 }
 
-.contenedor h3{
+.contenedor h3 {
     font-size: 20px;
     font-weight: 400;
     font-size: 15px;
     letter-spacing: 4px;
 }
 
-.contenedor h5{
+.contenedor h5 {
     color: var(--color-primario);
     font-weight: 400;
     font-size: 15px;
     letter-spacing: 4px;
 }
 
+.contenedor:hover{
+    transform: translateY(-5px) scale(1.1); 
+}
 
+.flecha{
+    position: absolute;
+    bottom: 3.3rem;
+    right: 9%;
+}
 
+.flecha i{
+    padding: 12px;
+    color: var(--color-fondo);
+    background: var(--color-texto);
+    font-size: var(--color-texto);
+    cursor: pointer;
+    border-radius: 3rem;
+    transition: all ease .55s;
+}
+
+.flecha i:hover{
+    background: var(--color-primario);
+}
