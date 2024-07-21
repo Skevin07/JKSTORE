@@ -26,8 +26,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\elsup\OneDrive\Documentos\GitHub\JKSTORE\TiendaJK\TiendaJK
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/elsup/OneDrive/Documentos/GitHub/JKSTORE/TiendaJK/TiendaJK/Views/Clientes/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
+[C:/Users/elsup/OneDrive/Documentos/GitHub/JKSTORE/TiendaJK/TiendaJK/Views/Clientes/AgregarClientes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQWdyZWdhckNsaWVudGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elsup/OneDrive/Documentos/GitHub/JKSTORE/TiendaJK/TiendaJK/Views/Clientes/EditarClientes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdGFyQ2xpZW50ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elsup/OneDrive/Documentos/GitHub/JKSTORE/TiendaJK/TiendaJK/Views/Clientes/EliminarCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWxpbWluYXJDbGllbnRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elsup/OneDrive/Documentos/GitHub/JKSTORE/TiendaJK/TiendaJK/Views/Clientes/IndexClientes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXhDbGllbnRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elsup/OneDrive/Documentos/GitHub/JKSTORE/TiendaJK/TiendaJK/Views/Clientes/IniciarSeccion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5pY2lhclNlY2Npb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/elsup/OneDrive/Documentos/GitHub/JKSTORE/TiendaJK/TiendaJK/Views/Home/Index.cshtml]
