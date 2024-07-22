@@ -6,8 +6,11 @@
     "\\TiendaJK\\TiendaJK\\Controllers",
     "\\TiendaJK\\TiendaJK\\Models",
     "\\TiendaJK\\TiendaJK\\obj",
-    "\\TiendaJK\\TiendaJK\\Services"
+    "\\TiendaJK\\TiendaJK\\Services",
+    "\\TiendaJK\\TiendaJK\\Views",
+    "\\TiendaJK\\TiendaJK\\Views\\Clientes",
+    "\\TiendaJK\\TiendaJK\\Views\\Shared"
   ],
-  "SelectedNode": "\\TiendaJK\\TiendaJK\\Controllers\\ClientesController.cs",
+  "SelectedNode": "\\TiendaJK\\TiendaJK\\Views\\Shared\\_Layout.cshtml",
   "PreviewInSolutionExplorer": false
 }
