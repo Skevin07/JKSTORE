@@ -11,7 +11,7 @@ namespace TiendaJK.Models
         public string Nombre { get; set; }
         public string Apellido { get; set; }
         public int DUI { get; set; }
-        public string Telefono { get; set; }
-        public string correo { get; set; }
+        public int Telefono { get; set; }
+        public string Correo { get; set; }
     }
 }
