@@ -18,7 +18,7 @@ namespace TiendaJK.Controllers
         }
               
         //Vista que muestra todos los documentos de la coleccion//
-            public async Task<IActionResult> IndexCliente()=> View(await _clienteService.GetAsync()); //Vista que permite ver todo el documento//
+            public async Task<IActionResult> Index()=> View(await _clienteService.GetAsync()); //Vista que permite ver todo el documento//
 
         public async Task<IActionResult> Details(string id) //Vista que permite ver un documento//
         {
@@ -44,22 +44,24 @@ namespace TiendaJK.Controllers
                 return View(cliente);
             }
             await _clienteService.CreateAsync(cliente);
-            return RedirectToAction(nameof(IndexCliente));
+            return RedirectToAction(nameof(Index));
 
         }
 
-        //Para editar un documento//
-        public async Task<IActionResult> Edit(string id)
+
+        //Parte de la funcion editar pero lo que hace esta funcion en especifico es agarrar los datos de la bs y los muestra nada mas//
+        public async Task<IActionResult> Edit (string id) 
         {
-            var cliente = await _clienteService.GetAsync(id);
+            var cliente = await _clienteService.GetAsync(id); //Linea de codigo para buscar el ID del padre//
             if (cliente == null) 
             { 
-                 return NotFound();
+                 return NotFound(); //Si este no encuentra el ID osea que porque es nulo, entonces se mostrara como pagina no encontrada//
             }
-            return View(cliente);
+            return View(cliente); //Para mostrar ese cliente//
         }
 
-        [HttpPut] //Metodo para modificar PUT//
+
+        [HttpPut] //Metodo para modificar PUT// //Es en esta funcion en especifico que hace que los datos se actualicen //
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(string id, Cliente cliente)
         {
@@ -68,8 +70,10 @@ namespace TiendaJK.Controllers
                 return View(cliente);
             }
             await _clienteService.UpdateAsync(id, cliente);
-            return RedirectToAction(nameof(IndexCliente));
+            return RedirectToAction(nameof(Index));
         }
+
+
 
         //Para eliminar un documento//
         public async Task<IActionResult> Delete(string id)
@@ -86,7 +90,7 @@ namespace TiendaJK.Controllers
         public async Task<IActionResult> DeleteConfirmed(string id)
         {
             await _clienteService.RemoveAsync(id);
-            return RedirectToAction(nameof(IndexCliente));
+            return RedirectToAction(nameof(Index));
         }
 
 

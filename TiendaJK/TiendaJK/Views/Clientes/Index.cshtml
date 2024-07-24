@@ -1,13 +1,13 @@
 ﻿@model IEnumerable<TiendaJK.Models.Cliente>
 
 @{
-    ViewData["Title"] = "IndexCliente";
+    ViewData["Title"] = "Listado de clientes";
 }
 
-<h1>IndexCliente</h1>
+<h1>Listado de clientes</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a class="btn btn-success" a asp-action="Create">Crear nuevo</a>
 </p>
 <table class="table">
     <thead>
@@ -55,9 +55,12 @@
                 @Html.DisplayFor(modelItem => item.Correo)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+
+                    <a class="btn btn-info" href="@Url.Action("Details", new {  id=item.Id  })">Detalles</a>
+                    <a class="btn btn-warning" href="@Url.Action("Edit", new {  id=item.Id  })">Editar</a>
+                    <a class="btn btn-danger" href="@Url.Action("Delete", new {  id=item.Id  })">Eliminar</a>
+
+                
             </td>
         </tr>
 }
