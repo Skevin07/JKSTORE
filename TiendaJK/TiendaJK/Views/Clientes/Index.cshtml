@@ -7,9 +7,11 @@
 <h1>Listado de clientes</h1>
 
 <p>
-    <a class="btn btn-success" a asp-action="Create">Crear nuevo</a>
+    <a class="btn btn-success" a asp-action="Create">Nuevo Cliente <i class="bi bi-plus-lg"></i></a>
 </p>
-<table class="table">
+
+<table class="table table-bordered border-primary">
+
     <thead>
         <tr>
             <th>
@@ -30,7 +32,9 @@
             <th>
                 @Html.DisplayNameFor(model => model.Correo)
             </th>
-            <th></th>
+            <th>
+                Acciones
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -58,7 +62,7 @@
 
                     <a class="btn btn-info" href="@Url.Action("Details", new {  id=item.Id  })">Detalles</a>
                     <a class="btn btn-warning" href="@Url.Action("Edit", new {  id=item.Id  })">Editar</a>
-                    <a class="btn btn-danger" href="@Url.Action("Delete", new {  id=item.Id  })">Eliminar</a>
+                    <a class="btn btn-danger" href="@Url.Action("Delete", new {  id=item.Id  })">Eliminar <i class="bi bi-person-dash-fill"></i></a>
 
                 
             </td>

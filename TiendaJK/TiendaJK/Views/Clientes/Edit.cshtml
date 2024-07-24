@@ -18,8 +18,10 @@
 
             <div class="form-group">
                 <label asp-for="Id" class="control-label"></label>
-                <input asp-for="Id" class="form-control" />
+                <!-- <input asp-for="Id"  class="form-control" /> -->
+                <input disabled asp-action="Id" class="form-control" />
                 <span asp-validation-for="Id" class="text-danger"></span>
+                
             </div>
 
 
@@ -57,10 +59,8 @@
                 <span asp-validation-for="Correo" class="text-danger"></span>
             </div>
 
-
-            <div>
-                |
-            </div>
+            <hr />
+            
 
                 <!--Boton de guardar de cliente editado-->             
                     <input type="submit" value="Guardar" class="btn btn-success" /> |
@@ -71,6 +71,9 @@
         </form>
     </div>
 </div>
+
+
+
 
 
 @section Scripts {
