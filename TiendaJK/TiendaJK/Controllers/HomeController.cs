@@ -15,6 +15,8 @@ namespace TiendaJK.Controllers
 
         public IActionResult Index()
         {
+            // Configura ViewData para pasar datos a la vista
+            ViewData["Title"] = "Home Page";
             return View();
         }
 

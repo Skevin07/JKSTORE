@@ -2,3 +2,14 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your JavaScript code.
+fetch('/header.html') // Ruta correcta desde la raíz del servidor web
+    .then(response => {
+        if (!response.ok) {
+            throw new Error('Network response was not ok');
+        }
+        return response.text();
+    })
+    .then(html => {
+        document.getElementById('header-container').innerHTML = html;
+    })
+    .catch(error => console.error('Error al cargar el archivo HTML:', error));

@@ -6342,19 +6342,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\elsup\\.nuget\\packages\\": {}
+    "C:\\Users\\milton\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK.csproj",
+      "projectUniqueName": "C:\\Users\\milton\\Music\\JKSTORE-actualizado\\TiendaJK\\TiendaJK\\TiendaJK.csproj",
       "projectName": "TiendaJK",
-      "projectPath": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK.csproj",
-      "packagesPath": "C:\\Users\\elsup\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\obj\\",
+      "projectPath": "C:\\Users\\milton\\Music\\JKSTORE-actualizado\\TiendaJK\\TiendaJK\\TiendaJK.csproj",
+      "packagesPath": "C:\\Users\\milton\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\milton\\Music\\JKSTORE-actualizado\\TiendaJK\\TiendaJK\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\elsup\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\milton\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

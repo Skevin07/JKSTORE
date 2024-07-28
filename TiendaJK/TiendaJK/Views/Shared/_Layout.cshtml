@@ -6,42 +6,18 @@
     <title>@ViewData["Title"] - TiendaJK</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/TiendaJK.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/styles.css" asp-append-version="true" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 </head>
 <body>
-
-    
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar navbar-dark bg-primary border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><i class="bi bi-laptop"></i> TiendaJK</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-
-                    <ul class="navbar-nav flex-grow-1">
-
-                        <!--Aqui es lo de la barra de navegacion, aqui se puede modificar-->
-                        
-                        <li class="nav-item"> 
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Inicio</a>
-                        </li>
-
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Clientes" asp-action="Index">Registro Cliente</a>
-                        </li>
-
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacidad</a>
-                        </li>
-
-
-                    </ul>
-                </div>
-            </div>
+    <header class="custom-header">
+        <div class="header-logo">
+            <i class="bi bi-laptop"></i> TiendaJK
+        </div>
+        <nav class="custom-navbar">
+            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Inicio</a>
+            <a class="nav-link" asp-area="" asp-controller="Clientes" asp-action="Index">Registro Cliente</a>
+            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy">Privacidad</a>
         </nav>
     </header>
     <div class="container">
@@ -49,7 +25,6 @@
             @RenderBody()
         </main>
     </div>
-
     <footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2024 - TiendaJK - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
