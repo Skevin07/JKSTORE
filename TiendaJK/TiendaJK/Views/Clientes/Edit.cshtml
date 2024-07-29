@@ -11,19 +11,14 @@
 <div class="row">
     <div class="col-md-4">
 
-        <form asp-action="Edit">
-
+        <form asp-action="Edit" method="post">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-
 
             <div class="form-group">
                 <label asp-for="Id" class="control-label"></label>
-                <!-- <input asp-for="Id"  class="form-control" /> -->
-                <input disabled asp-action="Id" class="form-control" />
+                <input asp-for="Id" class="form-control" disabled />
                 <span asp-validation-for="Id" class="text-danger"></span>
-                
             </div>
-
 
             <div class="form-group">
                 <label asp-for="Nombre" class="control-label"></label>
@@ -31,13 +26,11 @@
                 <span asp-validation-for="Nombre" class="text-danger"></span>
             </div>
 
-
             <div class="form-group">
                 <label asp-for="Apellido" class="control-label"></label>
                 <input asp-for="Apellido" class="form-control" />
                 <span asp-validation-for="Apellido" class="text-danger"></span>
             </div>
-
 
             <div class="form-group">
                 <label asp-for="DUI" class="control-label"></label>
@@ -45,13 +38,11 @@
                 <span asp-validation-for="DUI" class="text-danger"></span>
             </div>
 
-
             <div class="form-group">
                 <label asp-for="Telefono" class="control-label"></label>
                 <input asp-for="Telefono" class="form-control" />
                 <span asp-validation-for="Telefono" class="text-danger"></span>
             </div>
-
 
             <div class="form-group">
                 <label asp-for="Correo" class="control-label"></label>
@@ -59,15 +50,11 @@
                 <span asp-validation-for="Correo" class="text-danger"></span>
             </div>
 
-            <hr />
+            <input type="hidden" name="id" value="@Model.Id" />
+            <button type="submit" class="btn btn-primary">Guardar cambios</button>
+
             
-
-                <!--Boton de guardar de cliente editado-->             
-                    <input type="submit" value="Guardar" class="btn btn-success" /> |
-
-                    <!--Boton de regresar-->
-                    <a class="btn btn-info" a asp-action="Index"><i class="bi bi-reply-fill"></i>Regresar al indice</a>
-        
+            <a class="btn btn-info" asp-action="Index"><i class="bi bi-reply-fill"></i> Regresar al índice</a>
         </form>
     </div>
 </div>

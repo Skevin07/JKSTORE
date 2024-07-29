@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mcr2kq83/hU=",
+  "dgSpecHash": "WnPGeo05M0s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\milton\\Music\\JKSTORE-actualizado\\TiendaJK\\TiendaJK\\TiendaJK.csproj",
+  "projectFilePath": "C:\\Users\\milton\\Source\\Repos\\MilitoJR\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\milton\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\milton\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

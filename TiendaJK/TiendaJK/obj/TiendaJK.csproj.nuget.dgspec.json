@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\milton\\Music\\JKSTORE-actualizado\\TiendaJK\\TiendaJK\\TiendaJK.csproj": {}
+    "C:\\Users\\milton\\Source\\Repos\\MilitoJR\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK.csproj": {}
   },
   "projects": {
-    "C:\\Users\\milton\\Music\\JKSTORE-actualizado\\TiendaJK\\TiendaJK\\TiendaJK.csproj": {
+    "C:\\Users\\milton\\Source\\Repos\\MilitoJR\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\milton\\Music\\JKSTORE-actualizado\\TiendaJK\\TiendaJK\\TiendaJK.csproj",
+        "projectUniqueName": "C:\\Users\\milton\\Source\\Repos\\MilitoJR\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK.csproj",
         "projectName": "TiendaJK",
-        "projectPath": "C:\\Users\\milton\\Music\\JKSTORE-actualizado\\TiendaJK\\TiendaJK\\TiendaJK.csproj",
+        "projectPath": "C:\\Users\\milton\\Source\\Repos\\MilitoJR\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK.csproj",
         "packagesPath": "C:\\Users\\milton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\milton\\Music\\JKSTORE-actualizado\\TiendaJK\\TiendaJK\\obj\\",
+        "outputPath": "C:\\Users\\milton\\Source\\Repos\\MilitoJR\\JKSTORE\\TiendaJK\\TiendaJK\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\milton\\AppData\\Roaming\\NuGet\\NuGet.Config",

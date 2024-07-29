@@ -4,6 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 using System.Security.Cryptography.X509Certificates;
 using TiendaJK.Models;
 
+
+
 namespace TiendaJK.Controllers
 {
     public class ClientesController : Controller
@@ -17,7 +19,7 @@ namespace TiendaJK.Controllers
 
         }
               
-        //Vista que muestra todos los documentos de la coleccion//
+        
             public async Task<IActionResult> Index()=> View(await _clienteService.GetAsync()); //Vista que permite ver todo el documento//
 
         public async Task<IActionResult> Details(string id) //Vista que permite ver un documento//
@@ -34,12 +36,12 @@ namespace TiendaJK.Controllers
         //Para crear un documento//
         public IActionResult Create() => View();
 
-        [HttpPost] //Guardar documentos en la base con metodo post//
+        [HttpPost] 
         [ValidateAntiForgeryToken]
 
         public async Task<IActionResult> Create(Cliente cliente)
         {
-            if (!ModelState.IsValid) //si el modelo no es valido//
+            if (!ModelState.IsValid) 
             {
                 return View(cliente);
             }
@@ -49,33 +51,44 @@ namespace TiendaJK.Controllers
         }
 
 
-        //Parte de la funcion editar pero lo que hace esta funcion en especifico es agarrar los datos de la bs y los muestra nada mas//
-        public async Task<IActionResult> Edit (string id) 
+        [HttpGet]
+        public async Task<IActionResult> Edit(string id)
         {
-            var cliente = await _clienteService.GetAsync(id); //Linea de codigo para buscar el ID del padre//
-            if (cliente == null) 
-            { 
-                 return NotFound(); //Si este no encuentra el ID osea que porque es nulo, entonces se mostrara como pagina no encontrada//
+            if (string.IsNullOrEmpty(id))
+            {
+                return NotFound("El ID del cliente es necesario.");
             }
-            return View(cliente); //Para mostrar ese cliente//
+
+            var cliente = await _clienteService.GetByIdAsync(id);
+            if (cliente == null)
+            {
+                return NotFound();
+            }
+
+            return View(cliente);
         }
 
-
-        [HttpPut] //Metodo para modificar PUT// //Es en esta funcion en especifico que hace que los datos se actualicen //
+        [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(string id, Cliente cliente)
         {
+            if (string.IsNullOrEmpty(id) || cliente == null || cliente.Id != id)
+            {
+                return BadRequest("Datos inválidos.");
+            }
+
             if (!ModelState.IsValid)
             {
                 return View(cliente);
             }
+
             await _clienteService.UpdateAsync(id, cliente);
             return RedirectToAction(nameof(Index));
         }
 
 
 
-        //Para eliminar un documento//
+
         public async Task<IActionResult> Delete(string id)
         {
             var cliente = await _clienteService.GetAsync(id);

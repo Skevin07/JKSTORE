@@ -1,16 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
     "\\TiendaJK",
     "\\TiendaJK\\TiendaJK",
-    "\\TiendaJK\\TiendaJK\\Controllers",
-    "\\TiendaJK\\TiendaJK\\Models",
-    "\\TiendaJK\\TiendaJK\\obj",
-    "\\TiendaJK\\TiendaJK\\Services",
     "\\TiendaJK\\TiendaJK\\Views",
-    "\\TiendaJK\\TiendaJK\\Views\\Clientes",
-    "\\TiendaJK\\TiendaJK\\Views\\Shared"
+    "\\TiendaJK\\TiendaJK\\Views\\Shared",
+    "\\Vista de producto"
   ],
-  "SelectedNode": "\\TiendaJK\\TiendaJK.sln",
+  "SelectedNode": "\\TiendaJK\\TiendaJK\\Views\\Shared\\_Layout.cshtml",
   "PreviewInSolutionExplorer": false
 }
