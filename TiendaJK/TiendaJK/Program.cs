@@ -3,20 +3,23 @@ using TiendaJK.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Configuración de base de datos
 builder.Services.Configure<DatabaseSettingscs>(
     builder.Configuration.GetSection("ConnectionStrings"));
-builder.Services.AddSingleton<ClienteService>();
 
-// Add services to the container.
+// Registro de servicios
+builder.Services.AddSingleton<ClienteService>();
+builder.Services.AddScoped<ProductoService>(); // Registro de ProductoService
+
+// Añadir controladores con vistas
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Configuración del pipeline de HTTP
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 

@@ -5,9 +5,10 @@
     "\\TiendaJK",
     "\\TiendaJK\\TiendaJK",
     "\\TiendaJK\\TiendaJK\\Views",
+    "\\TiendaJK\\TiendaJK\\Views\\Clientes",
     "\\TiendaJK\\TiendaJK\\Views\\Shared",
     "\\Vista de producto"
   ],
-  "SelectedNode": "\\TiendaJK\\TiendaJK\\Views\\Shared\\_Layout.cshtml",
+  "SelectedNode": "\\TiendaJK\\TiendaJK\\Views\\Clientes\\Edit.cshtml",
   "PreviewInSolutionExplorer": false
 }

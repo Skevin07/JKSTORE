@@ -10,7 +10,8 @@ namespace TiendaJK.Controllers
 {
     public class ClientesController : Controller
     {
-        private readonly ClienteService _clienteService;
+        //Vista que permite ver todo el documento//
+ private readonly ClienteService _clienteService;
 
         public ClientesController(ClienteService clienteService)
         {
@@ -20,8 +21,7 @@ namespace TiendaJK.Controllers
         }
               
         
-            public async Task<IActionResult> Index()=> View(await _clienteService.GetAsync()); //Vista que permite ver todo el documento//
-
+            public async Task<IActionResult> Index()=> View(await _clienteService.GetAsync());
         public async Task<IActionResult> Details(string id) //Vista que permite ver un documento//
         {
                 var cliente = await _clienteService.GetAsync(id);

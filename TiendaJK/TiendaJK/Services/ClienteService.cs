@@ -13,6 +13,7 @@ namespace TiendaJK.Services
             var cliente = new MongoClient(settings.Value.ConnectionString);
             var database = cliente.GetDatabase(settings.Value.DatabaseName);
             _variable = database.GetCollection<Cliente>("Clientes");
+
         }
 
         public async Task<List<Cliente>> GetAsync() =>
