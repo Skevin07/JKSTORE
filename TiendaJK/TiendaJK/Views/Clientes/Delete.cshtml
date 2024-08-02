@@ -8,7 +8,7 @@
 
 <h3>Estas seguro que quieres eliminarlo?</h3>
 <div>
-    <h4>Cliente</h4>
+  
     <hr />
     <dl class="row">
         <dt class = "col-sm-2">
@@ -49,13 +49,14 @@
         </dd>
     </dl>
 
-    <!--Boton de Eliminar-->
+    
 
     <form asp-action="Delete">
-        <input type="submit" value="Eliminar"  class="btn btn-danger"  /> |
 
+        <!--Boton de Eliminar-->
+        <button type="submit" class="btn btn-danger"><i class="bi bi-person-dash-fill"></i> Eliminar cliente</button> |
         <!--Boton de Regresar-->
-        <a class="btn btn-secondary" a asp-action="Index"><i class="bi bi-reply-fill"></i>Regresar al indice</a>
+        <a class="btn btn-info" asp-action="Index"><i class="bi bi-reply-fill"></i> Regresar al índice</a>
 
     </form>
 </div>

@@ -1,10 +1,10 @@
 ﻿@model TiendaJK.Models.Producto
 
 @{
-    ViewData["Title"] = "Details";
+    ViewData["Title"] = "Detalles";
 }
 
-<h1>Details</h1>
+<h1>Detalles</h1>
 
 <div>
     <h4>Producto</h4>
@@ -43,7 +43,11 @@
     </dl>
 </div>
 <div>
-    <a class="btn btn-warning" href="@Url.Action("Edit", new { id = Model.Id })">Editar</a> |
+
+
+    <a class="btn btn-warning" href="@Url.Action("Edit", new {  id= Model.Id  })">Editar <i class="bi bi-pencil"></i></a> |
 
     <a class="btn btn-info" a asp-action="Index"><i class="bi bi-reply-fill"></i>Regresar al indice</a>
+
+
 </div>

@@ -1,13 +1,13 @@
 ﻿@model IEnumerable<TiendaJK.Models.Cliente>
 
 @{
-    ViewData["Title"] = "Listado de clientes";
+    ViewData["Title"] = "Listado de Clientes";
 }
 
 <h1>Listado de clientes</h1>
 
 <p>
-    <a class="btn btn-success" a asp-action="Create">Nuevo Cliente <i class="bi bi-plus-lg"></i></a>
+    <a class="btn btn-success" a asp-action="Create"> Nuevo Cliente   <i class="bi bi-person-plus"></i></a>
 </p>
 
 <table class="table table-bordered border-primary">
@@ -60,8 +60,8 @@
             </td>
             <td>
 
-                    <a class="btn btn-info" href="@Url.Action("Details", new {  id=item.Id  })">Detalles</a>
-                    <a class="btn btn-warning" href="@Url.Action("Edit", new {  id=item.Id  })">Editar</a>
+                    <a class="btn btn-info" href="@Url.Action("Details", new {  id=item.Id  })">Detalles <i class="bi bi-arrows-angle-expand"></i></a>
+                    <a class="btn btn-warning" href="@Url.Action("Edit", new {  id=item.Id  })">Editar <i class="bi bi-pencil"></i></a>
                     <a class="btn btn-danger" href="@Url.Action("Delete", new {  id=item.Id  })">Eliminar <i class="bi bi-person-dash-fill"></i></a>
 
                 

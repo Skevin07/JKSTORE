@@ -6,9 +6,8 @@
     "\\TiendaJK\\TiendaJK",
     "\\TiendaJK\\TiendaJK\\Views",
     "\\TiendaJK\\TiendaJK\\Views\\Clientes",
-    "\\TiendaJK\\TiendaJK\\Views\\Shared",
-    "\\Vista de producto"
+    "\\TiendaJK\\TiendaJK\\wwwroot"
   ],
-  "SelectedNode": "\\TiendaJK\\TiendaJK\\Views\\Clientes\\Edit.cshtml",
+  "SelectedNode": "\\TiendaJK\\TiendaJK\\Views\\Clientes\\Create.cshtml",
   "PreviewInSolutionExplorer": false
 }
