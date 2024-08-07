@@ -25,6 +25,14 @@
       "PackagePath": "staticwebassets\\htmlpage.html"
     },
     {
+      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\DellOptiplex.png",
+      "PackagePath": "staticwebassets\\images\\DellOptiplex.png"
+    },
+    {
+      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\EscritorioDell.webp",
+      "PackagePath": "staticwebassets\\images\\EscritorioDell.webp"
+    },
+    {
       "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\Galaxy Book4 Edge.png",
       "PackagePath": "staticwebassets\\images\\Galaxy Book4 Edge.png"
     },
@@ -35,6 +43,10 @@
     {
       "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\LLPO1.png",
       "PackagePath": "staticwebassets\\images\\LLPO1.png"
+    },
+    {
+      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\MacBook Air.png",
+      "PackagePath": "staticwebassets\\images\\MacBook Air.png"
     },
     {
       "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\js\\site.js",

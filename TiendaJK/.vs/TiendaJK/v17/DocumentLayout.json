@@ -11,16 +11,12 @@
       "RelativeMoniker": "D:0:0:{EACE742C-A31C-4282-A897-473CEF8505B0}|TiendaJK\\TiendaJK.csproj|solutionrelative:tiendajk\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EACE742C-A31C-4282-A897-473CEF8505B0}|TiendaJK\\TiendaJK.csproj|c:\\users\\14-ck0013lab\\documents\\github\\jkstore\\tiendajk\\tiendajk\\tiendajk\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EACE742C-A31C-4282-A897-473CEF8505B0}|TiendaJK\\TiendaJK.csproj|solutionrelative:tiendajk\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EACE742C-A31C-4282-A897-473CEF8505B0}|TiendaJK\\TiendaJK.csproj|c:\\users\\14-ck0013lab\\documents\\github\\jkstore\\tiendajk\\tiendajk\\tiendajk\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EACE742C-A31C-4282-A897-473CEF8505B0}|TiendaJK\\TiendaJK.csproj|solutionrelative:tiendajk\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EACE742C-A31C-4282-A897-473CEF8505B0}|TiendaJK\\TiendaJK.csproj|c:\\users\\14-ck0013lab\\documents\\github\\jkstore\\tiendajk\\tiendajk\\tiendajk\\views\\productos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EACE742C-A31C-4282-A897-473CEF8505B0}|TiendaJK\\TiendaJK.csproj|solutionrelative:tiendajk\\views\\productos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EACE742C-A31C-4282-A897-473CEF8505B0}|TiendaJK\\TiendaJK.csproj|c:\\users\\14-ck0013lab\\documents\\github\\jkstore\\tiendajk\\tiendajk\\tiendajk\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EACE742C-A31C-4282-A897-473CEF8505B0}|TiendaJK\\TiendaJK.csproj|solutionrelative:tiendajk\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EACE742C-A31C-4282-A897-473CEF8505B0}|TiendaJK\\TiendaJK.csproj|c:\\users\\14-ck0013lab\\documents\\github\\jkstore\\tiendajk\\tiendajk\\tiendajk\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EACE742C-A31C-4282-A897-473CEF8505B0}|TiendaJK\\TiendaJK.csproj|solutionrelative:tiendajk\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,58 +26,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "TiendaJK\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "TiendaJK\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAA8AAABgZmZmZmYkwBsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-07T16:20:00.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\Views\\Productos\\Index.cshtml",
-              "RelativeDocumentMoniker": "TiendaJK\\Views\\Productos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\Views\\Productos\\Index.cshtml",
-              "RelativeToolTip": "TiendaJK\\Views\\Productos\\Index.cshtml",
-              "ViewState": "AQIAACUAAAAAMzMzMzMbwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-07T16:13:30.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\Views\\Productos\\Details.cshtml",
-              "RelativeDocumentMoniker": "TiendaJK\\Views\\Productos\\Details.cshtml",
-              "ToolTip": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\Views\\Productos\\Details.cshtml",
-              "RelativeToolTip": "TiendaJK\\Views\\Productos\\Details.cshtml",
-              "ViewState": "AQIAACIAAAAAAAAAAAAhwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-07T16:08:19.959Z",
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "TiendaJK\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "TiendaJK\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-07T17:26:12.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\Views\\Clientes\\Details.cshtml",
-              "RelativeDocumentMoniker": "TiendaJK\\Views\\Clientes\\Details.cshtml",
-              "ToolTip": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\Views\\Clientes\\Details.cshtml",
-              "RelativeToolTip": "TiendaJK\\Views\\Clientes\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-07T16:08:12.157Z",
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "TiendaJK\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "TiendaJK\\wwwroot\\css\\styles.css",
+              "ViewState": "AQIAAPsAAAAALTMzMzMLwBQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-07T17:16:27.728Z",
               "EditorCaption": ""
             },
             {
@@ -92,9 +62,22 @@
               "RelativeDocumentMoniker": "TiendaJK\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "TiendaJK\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABoAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-07T15:32:01.939Z",
+              "WhenOpened": "2024-08-07T17:14:09.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TiendaJK\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TiendaJK\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T17:13:22.659Z",
               "EditorCaption": ""
             }
           ]
