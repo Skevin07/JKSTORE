@@ -237,7 +237,8 @@ section {
         flex-direction: column;
         align-items: center;
         padding: 20px;
-        height: auto; /* Ajusta automáticamente la altura del header */
+        height: auto;
+        width: auto;/* Ajusta automáticamente la altura del header */
     }
 
     .header-logo {
@@ -267,7 +268,9 @@ section {
     .header-logo {
         font-size: 20px;
     }
+    .body{
 
+    }
     .nav-btn {
         padding: 6px 15px;
         font-size: 12px;
