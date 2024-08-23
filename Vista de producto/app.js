@@ -1,11 +1,8 @@
-let darkmode = document.querySelector('#darkmode');
+const sr = ScrollReveal ({
+    distance: '10px',
+    duration: '2400',
+    reset: true
+});
 
-darkmode.onclick = any = {
-    if(darkmode.classList.contains('ri-moon-fill')){
-    darkmode.classList.replace('ri-moon-fill', 'rin-son-fill');
-    document.body.classList.add('color')
-}else {
-    darkmode.classList.replace('rin-sun-fill', 'rin-moon-fill');
-    document.body.classList.remove('coloe')
-}
-}
+sr.reveal('.contenido-texto', {delay:250, origin: 'top'});
+sr.reveal('.contenido-img', {delay:450, origin: 'bottom'});
