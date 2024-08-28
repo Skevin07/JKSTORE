@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\milton\\Videos\\JKSTORE-main\\JKSTORE-main\\TiendaJK\\TiendaJK\\TiendaJK.csproj": {}
+    "C:\\Users\\milton\\Documents\\Git\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK.csproj": {}
   },
   "projects": {
-    "C:\\Users\\milton\\Videos\\JKSTORE-main\\JKSTORE-main\\TiendaJK\\TiendaJK\\TiendaJK.csproj": {
+    "C:\\Users\\milton\\Documents\\Git\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\milton\\Videos\\JKSTORE-main\\JKSTORE-main\\TiendaJK\\TiendaJK\\TiendaJK.csproj",
+        "projectUniqueName": "C:\\Users\\milton\\Documents\\Git\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK.csproj",
         "projectName": "TiendaJK",
-        "projectPath": "C:\\Users\\milton\\Videos\\JKSTORE-main\\JKSTORE-main\\TiendaJK\\TiendaJK\\TiendaJK.csproj",
+        "projectPath": "C:\\Users\\milton\\Documents\\Git\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK.csproj",
         "packagesPath": "C:\\Users\\milton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\milton\\Videos\\JKSTORE-main\\JKSTORE-main\\TiendaJK\\TiendaJK\\obj\\",
+        "outputPath": "C:\\Users\\milton\\Documents\\Git\\JKSTORE\\TiendaJK\\TiendaJK\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\milton\\AppData\\Roaming\\NuGet\\NuGet.Config",
