@@ -10,6 +10,7 @@ builder.Services.Configure<DatabaseSettingscs>(
 // Registro de servicios
 builder.Services.AddSingleton<ClienteService>();
 builder.Services.AddScoped<ProductoService>(); // Registro de ProductoService
+builder.Services.AddSingleton<CarritoService>(); // Registrar CarritoService
 
 // Añadir controladores con vistas
 builder.Services.AddControllersWithViews();

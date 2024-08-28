@@ -13,3 +13,13 @@ fetch('/header.html') // Ruta correcta desde la raíz del servidor web
         document.getElementById('header-container').innerHTML = html;
     })
     .catch(error => console.error('Error al cargar el archivo HTML:', error));
+
+
+const sr = ScrollReveal({
+    distance: '10px',
+    duration: '2400',
+    reset: true
+});
+
+sr.reveal('.contenido-texto', { delay: 250, origin: 'top' });
+sr.reveal('.contenido-img', { delay: 450, origin: 'bottom' });

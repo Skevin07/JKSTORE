@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "66a86d70b23d5cb7279e4f4b"
+  },
+  "Nombre": "Galaxy Book4 edge",
+  "Descripcion": "Teléfono",
+  "Precio": 85,
+  "Estado": "Si hay"
+},
+{
+  "_id": {
+    "$oid": "66aaebd40e651fbe42c1b710"
+  },
+  "Nombre": "Dell Optiplex",
+  "Descripcion": "Pantalla",
+  "Precio": 14,
+  "Estado": "En existenia"
+},
+{
+  "_id": {
+    "$oid": "66cece56063b6ac27103cd03"
+  },
+  "Nombre": "Galaxy Book Ultra",
+  "Descripcion": "PC Portátil",
+  "Precio": 500,
+  "Estado": "Disponible"
+}]

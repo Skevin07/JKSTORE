@@ -1,0 +1,64 @@
+﻿@model IEnumerable<TiendaJK.Models.Carrito>
+
+@{
+    ViewData["Title"] = "Carrito de Compras";
+    decimal total = 0;
+}
+
+<h2>Carrito de Compras</h2>
+
+<p>
+    <a class="btn btn-primary" id="proceedToCheckoutButton">Proceder al Pago <i class="bi bi-credit-card-fill"></i></a>
+    <a class="btn btn-secondary" asp-controller="Productos" asp-action="Index">Regresar a Productos <i class="bi bi-arrow-left"></i></a>
+</p>
+
+<div class="table-responsive">
+    <table class="table table-bordered border-primary">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Descripción</th>
+                <th>Precio</th>
+                <th>Cantidad</th>
+                <th>Total</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                var itemTotal = item.Producto.Precio * item.Cantidad;
+                total += itemTotal;
+                <tr>
+                    <td>@item.Producto.Nombre</td>
+                    <td>@item.Producto.Descripcion</td>
+                    <td>@item.Producto.Precio.ToString("C", new System.Globalization.CultureInfo("en-US"))</td>
+                    <td>@item.Cantidad</td>
+                    <td>@itemTotal.ToString("C", new System.Globalization.CultureInfo("en-US"))</td>
+                    <td>
+                        <a class="btn btn-danger" href="@Url.Action("RemoveFromCarrito", new { id = item.Producto.Id })">Eliminar <i class="bi bi-trash3-fill"></i></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="4" class="text-end"><strong>Total</strong></td>
+                <td><strong>@total.ToString("C", new System.Globalization.CultureInfo("en-US"))</strong></td>
+                <td></td>
+            </tr>
+        </tfoot>
+    </table>
+</div>
+
+@await Html.PartialAsync("_CheckoutModal")
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        document.getElementById('proceedToCheckoutButton').addEventListener('click', function () {
+            var checkoutModal = new bootstrap.Modal(document.getElementById('checkoutModal'));
+            checkoutModal.show();
+        });
+    </script>
+}

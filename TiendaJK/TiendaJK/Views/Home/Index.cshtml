@@ -1,42 +1,48 @@
-﻿
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-        fetch('/header.html') // Ruta correcta desde la raíz del servidor web
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error('Network response was not ok');
-                }
-                return response.text();
-            })
-            .then(html => {
-                document.getElementById('header-container').innerHTML = html;
-            })
-            .catch(error => console.error('Error al cargar el archivo HTML:', error));
-    });
-</script>
-<section class="contenido">
-    <div class="contenido-texto">
-        <h1>Ofertas 20% Descuentos</h1>
-        <h4>Portatil</h4>
-        <p>Laptop portatil</p>
-        <div class="contenido-in">
-
-            <div class="contenedor"
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.4" />
+    <title>@ViewData["Title"] - TiendaJK</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/productos.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+</head>
+<body>
+    <section class="contenido">
+        <div class="contenido-texto">
+            <h1>¡Bienvenido/a a TiendaJK!</h1>
+            <h4>Ofertas de hasta 20% de descuentos</h4>
+            <p>Microprocesadores Intel Core i7</p>
+            <div class="contenido-in">
+                <div class="contenedor">
                     <h3>Blanco</h3>
-                    <h5>Galaxy Book4 edge</h5>
+                    <h5>Galaxy Book4 Edge</h5>
                     <img src="~/images/Galaxy Book4 Edge.png" />
-
-                   
-            </div>
-            <div class="contenedor"
-                    <h3>Blanco</h3>
-                    <h5>Element</h5>
-                    <img src="~/images/LLPO1.png" />
-            </div>
-            <div class="contenedor"
-                    <h3>Blanco</h3>
-                    <h5>Element</h5>
-                    <img src="~/images/LLPO1.png" />
+                    <a href="/Productos/Details/66a86d70b23d5cb7279e4f4b" class="nav-btn">Detalle</a>
+                </div>
+                <div class="contenedor">
+                    <h3>Negro</h3>
+                    <h5>Galaxy Book4 Ultra</h5>
+                    <img src="~/images/Galaxy Book4 Ultra.png" />
+                    <a href="/Productos/Details/66cece56063b6ac27103cd03" class="nav-btn">Detalle</a>
+                </div>
+                <div class="contenedor">
+                    <h3>Negro</h3>
+                    <h5>Dell Optiplex</h5>
+                    <img src="~/images/DellOptiplex.png" />
+                    <a href="/Productos/Details/66aaebd40e651fbe42c1b710" class="nav-btn">Detalle</a>
+                </div>
+                
             </div>
         </div>
-        </section>
+    </section>
+    <script src="https://unpkg.com/scrollreveal"></script>
+</body>
+</html>
+
+
+
+

@@ -2,6 +2,27 @@
 
 @{
     ViewData["Title"] = "Detalles";
+
+    
+    string imageFileName = "";
+    switch (Model.Id)
+    {
+        case "66cece56063b6ac27103cd03":
+            imageFileName = "Galaxy Book4 Ultra.png";
+            break;
+
+        case "66aaebd40e651fbe42c1b710":
+            imageFileName = "DellOptiplex.png";
+            break;
+
+        case "66a86d70b23d5cb7279e4f4b":
+            imageFileName = "Galaxy Book4 Edge.png";
+            break;
+
+        default:
+            imageFileName = "default.png"; 
+            break;
+    }
 }
 
 <h1>Detalles</h1>
@@ -10,44 +31,44 @@
     <h4>Producto</h4>
     <hr />
     <dl class="row">
-        <dt class = "col-sm-2">
+        <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.Id)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.Id)
         </dd>
-        <dt class = "col-sm-2">
+        <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.Nombre)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.Nombre)
         </dd>
-        <dt class = "col-sm-2">
+        <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.Descripcion)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.Descripcion)
         </dd>
-        <dt class = "col-sm-2">
+        <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.Precio)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.Precio)
         </dd>
-        <dt class = "col-sm-2">
+        <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.Estado)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.Estado)
         </dd>
     </dl>
 </div>
+
 <div>
+    <img src="~/images/@imageFileName" alt="@Model.Nombre" class="img-fluid" style="max-width: 570px; height: 300px;" />
+</div>
 
-
-    <a class="btn btn-warning" href="@Url.Action("Edit", new {  id= Model.Id  })">Editar <i class="bi bi-pencil"></i></a> |
-
-    <a class="btn btn-info" a asp-action="Index"><i class="bi bi-reply-fill"></i>Regresar al indice</a>
-
-
+<div>
+    <a class="btn btn-warning" href="@Url.Action("Edit", new { id = Model.Id })">Editar <i class="bi bi-pencil"></i></a> |
+    <a class="btn btn-info" href="@Url.Action("Index")"><i class="bi bi-reply-fill"></i> Regresar al índice</a>
 </div>
