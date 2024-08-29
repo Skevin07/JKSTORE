@@ -4,7 +4,7 @@
     ViewData["Title"] = "Registro";
 }
 
-<h1 style="text-align: center;">Registra una cuenta con nosotros!</h1>
+<h1 style="text-align: center;">¡Registra una cuenta con nosotros!</h1>
 <hr />
 
 <!--Creacion de tabla-->
@@ -35,14 +35,14 @@
 
                     <div class="form-group">
 
-                        <input asp-for="Clave" class="form-control mb-3" type="text" placeholder="Clave" />
+                        <input asp-for="Clave" class="form-control mb-3" type="password" placeholder="Clave" />
                         <span asp-validation-for="Clave" class="text-danger"></span>
                     </div>
 
 
                     <div class="form-group">
 
-                        <input asp-for="ConfirmarClave" class="form-control mb-3" type="text" placeholder="Confirmar clave" />
+                        <input asp-for="ConfirmarClave" class="form-control mb-3" type="password" placeholder="Confirmar clave" />
                         <span asp-validation-for="ConfirmarClave" class="text-danger"></span>
                     </div>
 
