@@ -8,9 +8,10 @@ builder.Services.Configure<DatabaseSettingscs>(
     builder.Configuration.GetSection("ConnectionStrings"));
 
 // Registro de servicios
-builder.Services.AddSingleton<ClienteService>();
+builder.Services.AddSingleton<ClienteService>(); //Registro de ClienteServicie
 builder.Services.AddScoped<ProductoService>(); // Registro de ProductoService
 builder.Services.AddSingleton<CarritoService>(); // Registrar CarritoService
+builder.Services.AddSingleton<UsuarioService>(); //Registro de Usuario
 
 // Añadir controladores con vistas
 builder.Services.AddControllersWithViews();
