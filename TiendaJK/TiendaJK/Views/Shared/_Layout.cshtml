@@ -20,12 +20,21 @@
             <a class="nav-link" asp-area="" asp-controller="Productos" asp-action="Index">Registro Producto</a>
             <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy">Privacidad</a>
 
-            <!-- Carrito de Compras -->
+            
             <a class="nav-link" asp-area="" asp-controller="Carrito" asp-action="Index">
                 <i class="bi bi-cart"></i>
                 @if (ViewBag.CarritoCount != null)
                 {
                     <span class="badge bg-danger">@ViewBag.CarritoCount</span>
+                }
+            </a>
+
+            
+            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">
+                <i class="bi bi-eye"></i>
+                @if (ViewData["VisitaConteo"] != null)
+                {
+                    <span class="badge bg-info">@ViewData["VisitaConteo"]</span>
                 }
             </a>
         </nav>

@@ -277,3 +277,73 @@ section {
     }
 }
 
+
+
+/* Para el titulo sea mas llamativo*/
+
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Fruktur', cursive;
+}
+
+
+
+button{
+    width: 120px;
+    height: 40px;
+    font-size: 1em;
+    border: 2px solid #ffffff;
+    outline: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: margin-top 1s ease;
+}
+
+button:hover{
+    margin-top: 50px;
+}
+
+    button::before {
+        content: '¡Bienvenido/a a TiendaJK!';
+        position: absolute;
+        font-size: 3.5em;
+        z-index: -1;
+        -webkit-text-stroke: 2px #fff;
+        transform: scale(0);
+        opacity: 0;
+        transition: transform 1s ease, opacity 1s ease;
+    }
+
+button:hover::before{
+    transform: scale(1) translateY(-150px);
+    opacity: 1;
+    animation: animeteText 5s linear infinite;
+}
+
+@keyframes animeteText{
+    0%,18%,20%,50.1%,60%,65.1%,80%,90.1%,92% {
+        color: #7d2ae8;
+        text-shadow: 
+            0 0 10px #7d2ae8, 
+            0 0 20px #7d2ae8, 
+            0 0 40px #7d2ae8, 
+            0 0 80px #7d2ae8, 
+            0 0 160px #7d2ae8;
+    }
+    18.1%,20.1%,30%,50%,60%,65%,80.1%,90%,92.1%,100% {
+        color: #ffac09;
+        text-shadow: 
+            0 0 10px #ffac09, 
+            0 0 20px #ffac09, 
+            0 0 40px #ffac09, 
+            0 0 80px #ffac09, 
+            0 0 160px #ffac09;
+    }
+}
+
+
+
+

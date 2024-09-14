@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using TiendaJK.Models;
 using TiendaJK.Services;
+using TiendaJK.ViewModel;
 
 namespace TiendaJK.Controllers
 {
@@ -36,12 +37,20 @@ namespace TiendaJK.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(Usuario usuario)
         {
+
+
             if (!ModelState.IsValid)
             {
                 return View(usuario);
             }
             await _usuarioService.CreateAsync(usuario);
             return RedirectToAction(nameof(Index));
+
+
+
+            
+
+            
         }
 
 
@@ -100,6 +109,16 @@ namespace TiendaJK.Controllers
         {
             await _usuarioService.RemoveAsync(id);
             return RedirectToAction(nameof(Index));
+        }
+
+
+
+        [HttpGet]
+        public async Task<IActionResult> Login()
+        {
+            
+
+            return View();
         }
 
 
