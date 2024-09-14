@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EACE742C-A31C-4282-A897-473CEF8505B0}|TiendaJK\\TiendaJK.csproj|c:\\users\\elsup\\onedrive\\documentos\\github\\jkstore\\tiendajk\\tiendajk\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EACE742C-A31C-4282-A897-473CEF8505B0}|TiendaJK\\TiendaJK.csproj|solutionrelative:tiendajk\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EACE742C-A31C-4282-A897-473CEF8505B0}|TiendaJK\\TiendaJK.csproj|c:\\users\\elsup\\onedrive\\documentos\\github\\jkstore\\tiendajk\\tiendajk\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EACE742C-A31C-4282-A897-473CEF8505B0}|TiendaJK\\TiendaJK.csproj|solutionrelative:tiendajk\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EACE742C-A31C-4282-A897-473CEF8505B0}|TiendaJK\\TiendaJK.csproj|c:\\users\\elsup\\onedrive\\documentos\\github\\jkstore\\tiendajk\\tiendajk\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EACE742C-A31C-4282-A897-473CEF8505B0}|TiendaJK\\TiendaJK.csproj|solutionrelative:tiendajk\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EACE742C-A31C-4282-A897-473CEF8505B0}|TiendaJK\\TiendaJK.csproj|c:\\users\\elsup\\onedrive\\documentos\\github\\jkstore\\tiendajk\\tiendajk\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EACE742C-A31C-4282-A897-473CEF8505B0}|TiendaJK\\TiendaJK.csproj|solutionrelative:tiendajk\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACE742C-A31C-4282-A897-473CEF8505B0}|TiendaJK\\TiendaJK.csproj|c:\\users\\elsup\\onedrive\\documentos\\github\\jkstore\\tiendajk\\tiendajk\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EACE742C-A31C-4282-A897-473CEF8505B0}|TiendaJK\\TiendaJK.csproj|solutionrelative:tiendajk\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "TiendaJK\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "TiendaJK\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T00:25:17.603Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TiendaJK\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TiendaJK\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T03:49:56.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "TiendaJK\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "TiendaJK\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-14T03:49:20.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\Views\\Usuario\\Create.cshtml",
-              "RelativeDocumentMoniker": "TiendaJK\\Views\\Usuario\\Create.cshtml",
-              "ToolTip": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\Views\\Usuario\\Create.cshtml",
-              "RelativeToolTip": "TiendaJK\\Views\\Usuario\\Create.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACwAAABgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-28T21:32:53.358Z",
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "TiendaJK\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "TiendaJK\\wwwroot\\css\\styles.css",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADcBAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-14T03:48:58.471Z",
               "EditorCaption": ""
             }
           ]
