@@ -27,6 +27,7 @@ body {
     background-color: var(--color-fondo); /* Aplicar color de fondo */
     color: var(--color-texto);
     padding-top: 80px; /* Ajusta según la altura de tu header para evitar que se sobreponga */
+
 }
 
 .container {
@@ -136,6 +137,8 @@ section {
     grid-template-columns: repeat(2, 1fr);
     gap: 1rem;
     align-items: center;
+   
+    justify-content: center;
 }
 
 .contenido-img {
@@ -157,11 +160,78 @@ section {
     gap: 1.5rem;
 }
 
+/*ANIMACION DE TITULO OOOOOOOOOOOOOOOOOOOOO*/
+
+.animated-text {
+    font-size: 34px;
+    font-weight: 600;
+    min-width: 280px;
+    align-items: center;
+    text-align: center;
+    font-family: "Montserrat",sans-serif;
+}
+
+.animated-text span{
+    position: relative;
+}
+
+.animated-text span::before{
+    content: "Discos de almacenamiento";
+    color: dodgerblue ;
+    animation: words 20s infinite;
+}
+
+    .animated-text span::after {
+        content: "";
+        position: absolute;
+        width: calc(100% + 8px);
+        height: 100%;
+        background-color: var(--color-fondo);
+        border-left: 2px solid dodgerblue;
+        right: -8px;
+        animation: cursor .8s infinite, typing 20s steps(14) infinite;
+    }
+
+@keyframes cursor {
+    to {
+        border-left: 2px solid var(--color-fondo);
+    }
+}
+
+@keyframes words {
+    0%,20% {
+        content: "Discos de almacenamiento";
+    }
+    21%,40% {
+        content: "Monitores";
+    }
+    41%,60% {
+        content: "Baterias";
+    }
+    61%,80% {
+        content: "Mouse";
+    }
+    81%,100% {
+        content: "Herramientas de mantenimiento";
+    }
+}
+
+@keyframes typing{
+    10%,15%,30%,35%,50%,55%,70%,75%,90%,95%{
+        width: 0;
+    }
+    5%,20%,25%,40%,45%,60%,65%,80%,85%{
+        width: calc(100% + 8px);
+    }
+}
+
 .contenido-texto h1 {
     font-size: var(--fuente-grande);
     height: 1.3;
     font-weight: 800;
     margin-top: 5.5rem;
+    align-items: center;
+    justify-content: center;
 }
 
 .contenido-texto h4 {
@@ -281,6 +351,8 @@ section {
 
 /* Para el titulo sea mas llamativo*/
 
+
+/*
 {
     margin: 0;
     padding: 0;
@@ -343,6 +415,12 @@ button:hover::before{
             0 0 160px #ffac09;
     }
 }
+
+    */
+
+/*Diferete opcion de titulo LLAMATIVO*/
+
+
 
 
 
