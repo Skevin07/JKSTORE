@@ -3,12 +3,13 @@
     "",
     "\\TiendaJK",
     "\\TiendaJK\\TiendaJK",
+    "\\TiendaJK\\TiendaJK\\Services",
     "\\TiendaJK\\TiendaJK\\Views",
     "\\TiendaJK\\TiendaJK\\Views\\Clientes",
     "\\TiendaJK\\TiendaJK\\Views\\Productos",
     "\\TiendaJK\\TiendaJK\\wwwroot",
     "\\TiendaJK\\TiendaJK\\wwwroot\\css"
   ],
-  "SelectedNode": "\\TiendaJK\\TiendaJK\\wwwroot\\css\\styles.css",
+  "SelectedNode": "\\TiendaJK\\TiendaJK\\Services\\ConteoServices.cs",
   "PreviewInSolutionExplorer": false
 }
