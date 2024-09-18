@@ -14,50 +14,63 @@
     <table class="table table-bordered border-primary">
         <thead>
             <tr>
+
                 <th>
                     @Html.DisplayNameFor(model => model.First().Id)
                 </th>
+
                 <th>
                     @Html.DisplayNameFor(model => model.First().Nombre)
                 </th>
+
                 <th>
                     @Html.DisplayNameFor(model => model.First().Descripcion)
                 </th>
+
                 <th>
                     @Html.DisplayNameFor(model => model.First().Precio)
                 </th>
+
                 <th>
                     @Html.DisplayNameFor(model => model.First().Estado)
                 </th>
+
                 <th>
                     Acciones
                 </th>
+
             </tr>
         </thead>
         <tbody>
             @foreach (var item in Model)
             {
                 <tr>
+
                     <td>
                         @Html.DisplayFor(modelItem => item.Id)
                     </td>
+
                     <td>
                         @Html.DisplayFor(modelItem => item.Nombre)
                     </td>
+
                     <td>
                         @Html.DisplayFor(modelItem => item.Descripcion)
                     </td>
+
                     <td>
                         @Html.DisplayFor(modelItem => item.Precio)
                     </td>
+
                     <td>
                         @Html.DisplayFor(modelItem => item.Estado)
                     </td>
+
                     <td>
                         <a class="btn btn-info" href="@Url.Action("Details", new { id = item.Id })">Detalles <i class="bi bi-arrows-angle-expand"></i></a>
                         <a class="btn btn-warning" href="@Url.Action("Edit", new { id = item.Id })">Editar <i class="bi bi-pencil"></i></a>
                         <a class="btn btn-danger" href="@Url.Action("Delete", new { id = item.Id })">Eliminar <i class="bi bi-trash3-fill"></i></a>
-                        <a class="btn btn-primary" href="@Url.Action("AddToCarrito", "Carrito", new { id = item.Id })">Agregar al Carrito <i class="bi bi-cart-plus"></i></a>
+                        <a class="btn btn-primary" href="@Url.Action("AddToCarrito", "Carrito", new { id = item.Id })">Carrito <i class="bi bi-cart-plus"></i></a>
                     </td>
                 </tr>
             }
