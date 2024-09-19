@@ -6,10 +6,11 @@
     "\\TiendaJK\\TiendaJK\\Services",
     "\\TiendaJK\\TiendaJK\\Views",
     "\\TiendaJK\\TiendaJK\\Views\\Clientes",
+    "\\TiendaJK\\TiendaJK\\Views\\Home",
     "\\TiendaJK\\TiendaJK\\Views\\Productos",
     "\\TiendaJK\\TiendaJK\\wwwroot",
     "\\TiendaJK\\TiendaJK\\wwwroot\\css"
   ],
-  "SelectedNode": "\\TiendaJK\\TiendaJK\\Views\\Productos\\Index.cshtml",
+  "SelectedNode": "\\TiendaJK\\TiendaJK\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
