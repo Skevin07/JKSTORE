@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CtbHefbifDcNMuoD5BrfPpelc5w2gKDLnRj3aJrpVfg=",
+  "Hash": "GJShNRWB7AVpxlV8HyPw86vj8jM30Rp5Wk8qMYRCEFo=",
   "Source": "TiendaJK",
   "BasePath": "_content/TiendaJK",
   "Mode": "Default",
@@ -490,6 +490,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\televisor.png"
+    },
+    {
+      "Identity": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\televisor4k.png",
+      "SourceId": "TiendaJK",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\",
+      "BasePath": "_content/TiendaJK",
+      "RelativePath": "images/televisor4k.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\televisor4k.png"
     },
     {
       "Identity": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\Index.cshtml",

@@ -97,6 +97,10 @@
       "PackagePath": "staticwebassets\\images\\televisor.png"
     },
     {
+      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\televisor4k.png",
+      "PackagePath": "staticwebassets\\images\\televisor4k.png"
+    },
+    {
       "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
