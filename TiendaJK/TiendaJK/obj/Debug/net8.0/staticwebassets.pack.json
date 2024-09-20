@@ -33,6 +33,38 @@
       "PackagePath": "staticwebassets\\images\\DellOptiplex.png"
     },
     {
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\Ejemplo1.jpg",
+      "PackagePath": "staticwebassets\\images\\Ejemplo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\Ejemplo2.png",
+      "PackagePath": "staticwebassets\\images\\Ejemplo2.png"
+    },
+    {
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\Ejemplo3.png",
+      "PackagePath": "staticwebassets\\images\\Ejemplo3.png"
+    },
+    {
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\Ejemplo4.png",
+      "PackagePath": "staticwebassets\\images\\Ejemplo4.png"
+    },
+    {
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\Ejemplo5.png",
+      "PackagePath": "staticwebassets\\images\\Ejemplo5.png"
+    },
+    {
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\Ejemplo6.jpg",
+      "PackagePath": "staticwebassets\\images\\Ejemplo6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\Ejemplo7.png",
+      "PackagePath": "staticwebassets\\images\\Ejemplo7.png"
+    },
+    {
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\Ejemplo8.png",
+      "PackagePath": "staticwebassets\\images\\Ejemplo8.png"
+    },
+    {
       "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\EscritorioDell.webp",
       "PackagePath": "staticwebassets\\images\\EscritorioDell.webp"
     },
@@ -99,6 +131,10 @@
     {
       "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\televisor4k.png",
       "PackagePath": "staticwebassets\\images\\televisor4k.png"
+    },
+    {
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\js\\my_chart.js",
+      "PackagePath": "staticwebassets\\js\\my_chart.js"
     },
     {
       "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\js\\site.js",

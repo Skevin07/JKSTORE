@@ -27,7 +27,6 @@ body {
     background-color: var(--color-fondo); /* Aplicar color de fondo */
     color: var(--color-texto);
     padding-top: 80px; /* Ajusta según la altura de tu header para evitar que se sobreponga */
-
 }
 
 .container {
@@ -137,7 +136,6 @@ section {
     grid-template-columns: repeat(2, 1fr);
     gap: 1rem;
     align-items: center;
-   
     justify-content: center;
 }
 
@@ -171,26 +169,26 @@ section {
     font-family: "Montserrat",sans-serif;
 }
 
-.animated-text span{
-    position: relative;
-}
-
-.animated-text span::before{
-    content: "Discos de almacenamiento";
-    color: dodgerblue ;
-    animation: words 20s infinite;
-}
-
-    .animated-text span::after {
-        content: "";
-        position: absolute;
-        width: calc(100% + 8px);
-        height: 100%;
-        background-color: var(--color-fondo);
-        border-left: 2px solid dodgerblue;
-        right: -8px;
-        animation: cursor .8s infinite, typing 20s steps(14) infinite;
+    .animated-text span {
+        position: relative;
     }
+
+        .animated-text span::before {
+            content: "Discos de almacenamiento";
+            color: dodgerblue;
+            animation: words 20s infinite;
+        }
+
+        .animated-text span::after {
+            content: "";
+            position: absolute;
+            width: calc(100% + 8px);
+            height: 100%;
+            background-color: var(--color-fondo);
+            border-left: 2px solid dodgerblue;
+            right: -8px;
+            animation: cursor .8s infinite, typing 20s steps(14) infinite;
+        }
 
 @keyframes cursor {
     to {
@@ -202,25 +200,30 @@ section {
     0%,20% {
         content: "Discos de almacenamiento";
     }
+
     21%,40% {
         content: "Monitores";
     }
+
     41%,60% {
         content: "Baterias";
     }
+
     61%,80% {
         content: "Mouse";
     }
+
     81%,100% {
         content: "Herramientas de mantenimiento";
     }
 }
 
-@keyframes typing{
-    10%,15%,30%,35%,50%,55%,70%,75%,90%,95%{
+@keyframes typing {
+    10%,15%,30%,35%,50%,55%,70%,75%,90%,95% {
         width: 0;
     }
-    5%,20%,25%,40%,45%,60%,65%,80%,85%{
+
+    5%,20%,25%,40%,45%,60%,65%,80%,85% {
         width: calc(100% + 8px);
     }
 }
@@ -310,7 +313,7 @@ section {
         align-items: center;
         padding: 20px;
         height: auto;
-        width: auto;/* Ajusta automáticamente la altura del header */
+        width: auto; /* Ajusta automáticamente la altura del header */
     }
 
     .header-logo {
@@ -340,9 +343,10 @@ section {
     .header-logo {
         font-size: 20px;
     }
-    .body{
 
+    .body {
     }
+
     .nav-btn {
         padding: 6px 15px;
         font-size: 12px;
@@ -420,10 +424,268 @@ button:hover::before{
 
     */
 
-/*Diferete opcion de titulo LLAMATIVO*/
+
+
+/*------------------------------------TODO SOBRE EL DASHBOARD-----------------------*/
+
+
+
+/* TARJETAS DE PRESENTACION */
+.cardBox {
+    position: relative;
+    width: 100%;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 30px;
+}
+
+    .cardBox .card {
+        position: relative;
+        background: #fcfafa;
+        padding: 30px;
+        border-radius: 20px;
+        box-shadow: 0 7px 25px rgba(0, 0, 0, 0.08);
+        display: flex;
+        justify-content: space-between;
+        cursor: pointer;
+    }
+
+        .cardBox .card .numbers {
+            position: relative;
+            font-size: 2.5em;
+            font-weight: 500;
+            color: #0451bddc;
+        }
+
+        .cardBox .card .cardName {
+            color: #b9bec2;
+            font-size: 1.1em;
+            margin-top: 5px;
+        }
+
+        .cardBox .card .iconBox {
+            font-size: 2.5em;
+            color: rgb(66, 100, 137);
+        }
+
+        .cardBox .card:hover {
+            background: #03a9f4;
+        }
+
+            .cardBox .card:hover .numbers,
+            .cardBox .card:hover .cardName,
+            .cardBox .card:hover .iconBox {
+                color: #ffffff;
+            }
+
+
+
+
+/* GRAFICOS */
+.graphBox {
+    position: relative;
+    width: 100%;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-gap: 10px;
+    min-height: 200px;
+}
+
+    .graphBox .box {
+        position: relative;
+        background: #ffffff;
+        padding: 1px;
+        width: 90%;
+        box-shadow: 0 7px 25px rgba(0, 0, 0, 0.08);
+        border-radius: 20px;
+    }
 
 
 
 
 
+/* PANEL INFERIOR IZQUIERDA */
+.details {
+    position: relative;
+    width: 100%;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: 30px;
+    margin-top: 10px;
+}
+
+    .details .recentOrders {
+        position: relative;
+        min-height: 530px;
+        background: #fcfafa;
+        padding: 20px;
+        box-shadow: 0 7px 25px rgba(0, 0, 0, 0.08);
+        border-radius: 20px;
+    }
+
+.cardHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+    .cardHeader h2 {
+        font-weight: 600;
+        color: #1995ce;
+    }
+
+.btn {
+    position: relative;
+    padding: 5px 10px;
+    background: rgb(51, 120, 194);
+    color: #f6f6f6;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+.details table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+    .details table thead td {
+        font-weight: 600;
+    }
+
+.details .recentOrders table tr {
+    border-bottom: 1px solid rgb(222, 220, 220);
+    color: var(#d6d6d6);
+}
+
+.details .recentOrders table tbody tr:last-child {
+    border-bottom: none;
+}
+
+.details .recentOrders table tbody tr:hover {
+    background: rgb(51, 120, 194);
+    color: #f6f6f6;
+}
+
+.details .recentOrders table tr td {
+    padding: 9px 5px;
+}
+
+.details .recentOrders table thead tr td:last-child,
+.details .recentOrders table tbody tr td:last-child {
+    text-align: right;
+}
+
+.details .recentOrders table thead tr td:nth-child(2),
+.details .recentOrders table tbody tr td:nth-child(2) {
+    text-align: right;
+    padding-right: 20px;
+}
+
+.details .recentOrders table thead tr td:nth-child(3),
+.details .recentOrders table tbody tr td:nth-child(3) {
+    text-align: center;
+}
+
+.status {
+    position: relative;
+    padding: 2px 4px;
+    background: #f00;
+    color: #f6f6f6;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
+.delivered {
+    background: #8de02c;
+}
+
+.pending {
+    background: #f9ca3f;
+}
+
+.return {
+    background: #f00;
+}
+
+.inprogress {
+    background: #1995ce;
+}
+
+
+
+/* PANEL INFERIOR DERECHA */
+
+.details .recentCustomers {
+    position: relative;
+    display: grid;
+    min-height: 500px;
+    background: #fcfafa;
+    padding: 20px;
+    box-shadow: 0 7px 25px rgba(0, 0, 0, 0.08);
+    border-radius: 20px;
+}
+
+    .details .recentCustomers .imgBx {
+        position: relative;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        overflow: hidden;
+    }
+
+        .details .recentCustomers .imgBx img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+    .details .recentCustomers table tr:hover,
+    .details .recentCustomers table tr:hover td h4 span {
+        font-size: 14px;
+        color: #ffffff;
+    }
+
+    .details .recentCustomers table tr:hover {
+        background: #03a9f4;
+        color: #f6f6f6;
+    }
+
+    .details .recentCustomers table tr td {
+        padding: 7px 10px;
+    }
+
+        .details .recentCustomers table tr td h4 {
+            font-size: 16px;
+            font-weight: 500;
+            line-height: 1.2em;
+        }
+
+
+/*Lo de responsive*/
+@media (max-width: 992px) {
+
+    .graphBox {
+        grid-template-columns: 1fr;
+        height: auto;
+    }
+
+    .main {
+        width: 100%;
+        left: 0;
+    }
+
+        .main.active {
+            width: calc(100% - 300px);
+            left: px;
+        }
+}
 

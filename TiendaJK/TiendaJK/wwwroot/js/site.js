@@ -2,6 +2,7 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your JavaScript code.
+
 fetch('/header.html') // Ruta correcta desde la raíz del servidor web
     .then(response => {
         if (!response.ok) {
@@ -23,5 +24,9 @@ const sr = ScrollReveal({
 
 sr.reveal('.contenido-texto', { delay: 250, origin: 'top' });
 sr.reveal('.contenido-img', { delay: 450, origin: 'bottom' });
+
+
+
+/*------------------------------------TODO SOBRE EL DASHBOARD-----------------------*/
 
 
