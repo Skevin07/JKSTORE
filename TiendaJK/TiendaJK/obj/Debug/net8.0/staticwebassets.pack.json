@@ -1,483 +1,487 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TiendaJK.bundle.scp.css",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TiendaJK.bundle.scp.css",
       "PackagePath": "staticwebassets\\TiendaJK.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\css\\productos.css",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\css\\productos.css",
       "PackagePath": "staticwebassets\\css\\productos.css"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\css\\styles.css",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\css\\styles.css",
       "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\header.html",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\header.html",
       "PackagePath": "staticwebassets\\header.html"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\htmlpage.html",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\htmlpage.html",
       "PackagePath": "staticwebassets\\htmlpage.html"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\DellOptiplex.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\DellOptiplex.png",
       "PackagePath": "staticwebassets\\images\\DellOptiplex.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\Ejemplo1.jpg",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\Ejemplo1.jpg",
       "PackagePath": "staticwebassets\\images\\Ejemplo1.jpg"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\Ejemplo2.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\Ejemplo2.png",
       "PackagePath": "staticwebassets\\images\\Ejemplo2.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\Ejemplo3.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\Ejemplo3.png",
       "PackagePath": "staticwebassets\\images\\Ejemplo3.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\Ejemplo4.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\Ejemplo4.png",
       "PackagePath": "staticwebassets\\images\\Ejemplo4.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\Ejemplo5.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\Ejemplo5.png",
       "PackagePath": "staticwebassets\\images\\Ejemplo5.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\Ejemplo6.jpg",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\Ejemplo6.jpg",
       "PackagePath": "staticwebassets\\images\\Ejemplo6.jpg"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\Ejemplo7.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\Ejemplo7.png",
       "PackagePath": "staticwebassets\\images\\Ejemplo7.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\Ejemplo8.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\Ejemplo8.png",
       "PackagePath": "staticwebassets\\images\\Ejemplo8.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\EscritorioDell.webp",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\EscritorioDell.webp",
       "PackagePath": "staticwebassets\\images\\EscritorioDell.webp"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\Galaxy Book4 Edge.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\Galaxy Book4 Edge.png",
       "PackagePath": "staticwebassets\\images\\Galaxy Book4 Edge.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\Galaxy Book4 Ultra.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\Galaxy Book4 Ultra.png",
       "PackagePath": "staticwebassets\\images\\Galaxy Book4 Ultra.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\LLPO1.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\LLPO1.png",
       "PackagePath": "staticwebassets\\images\\LLPO1.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\Smartwatch.jpeg",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\Smartwatch.jpeg",
       "PackagePath": "staticwebassets\\images\\Smartwatch.jpeg"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\altavozInteligente.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\altavozInteligente.png",
       "PackagePath": "staticwebassets\\images\\altavozInteligente.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\amazon.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\amazon.png",
       "PackagePath": "staticwebassets\\images\\amazon.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\auriculares.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\auriculares.png",
       "PackagePath": "staticwebassets\\images\\auriculares.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\camara de accion.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\blu ray.png",
+      "PackagePath": "staticwebassets\\images\\blu ray.png"
+    },
+    {
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\camara de accion.png",
       "PackagePath": "staticwebassets\\images\\camara de accion.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\camara.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\camara.png",
       "PackagePath": "staticwebassets\\images\\camara.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\camaradeaccion.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\camaradeaccion.png",
       "PackagePath": "staticwebassets\\images\\camaradeaccion.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\camaradesegcurity.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\camaradesegcurity.png",
       "PackagePath": "staticwebassets\\images\\camaradesegcurity.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\camaranikon.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\camaranikon.png",
       "PackagePath": "staticwebassets\\images\\camaranikon.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\camaraseguridad.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\camaraseguridad.png",
       "PackagePath": "staticwebassets\\images\\camaraseguridad.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\camaraweb.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\camaraweb.png",
       "PackagePath": "staticwebassets\\images\\camaraweb.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\cargadorsolar.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\cargadorsolar.png",
       "PackagePath": "staticwebassets\\images\\cargadorsolar.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\controls.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\controls.png",
       "PackagePath": "staticwebassets\\images\\controls.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\discoduroext.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\discoduroext.png",
       "PackagePath": "staticwebassets\\images\\discoduroext.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\drone.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\drone.png",
       "PackagePath": "staticwebassets\\images\\drone.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\e-reader.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\e-reader.png",
       "PackagePath": "staticwebassets\\images\\e-reader.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\fuji camara.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\fuji camara.png",
       "PackagePath": "staticwebassets\\images\\fuji camara.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\galaxy book4 edg.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\galaxy book4 edg.png",
       "PackagePath": "staticwebassets\\images\\galaxy book4 edg.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\horno.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\horno.png",
       "PackagePath": "staticwebassets\\images\\horno.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\iphone.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\iphone.png",
       "PackagePath": "staticwebassets\\images\\iphone.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\iphone1.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\iphone1.png",
       "PackagePath": "staticwebassets\\images\\iphone1.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\lampara led.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\lampara led.png",
       "PackagePath": "staticwebassets\\images\\lampara led.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\microfonousb.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\microfonousb.png",
       "PackagePath": "staticwebassets\\images\\microfonousb.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\monitor.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\monitor.png",
       "PackagePath": "staticwebassets\\images\\monitor.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\monitor1.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\monitor1.png",
       "PackagePath": "staticwebassets\\images\\monitor1.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\ordenadorsobremesa.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\ordenadorsobremesa.png",
       "PackagePath": "staticwebassets\\images\\ordenadorsobremesa.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\pc.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\pc.png",
       "PackagePath": "staticwebassets\\images\\pc.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\pizarradigital.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\pizarradigital.png",
       "PackagePath": "staticwebassets\\images\\pizarradigital.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\play5.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\play5.png",
       "PackagePath": "staticwebassets\\images\\play5.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\proyector.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\proyector.png",
       "PackagePath": "staticwebassets\\images\\proyector.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\ratonergono.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\ratonergono.png",
       "PackagePath": "staticwebassets\\images\\ratonergono.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\relojdespetador.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\relojdespetador.png",
       "PackagePath": "staticwebassets\\images\\relojdespetador.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\routerwifi.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\routerwifi.png",
       "PackagePath": "staticwebassets\\images\\routerwifi.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\sistema de sonido.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\sistema de sonido.png",
       "PackagePath": "staticwebassets\\images\\sistema de sonido.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\sistemagps.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\sistemagps.png",
       "PackagePath": "staticwebassets\\images\\sistemagps.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\smartw.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\smartw.png",
       "PackagePath": "staticwebassets\\images\\smartw.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\tabA9.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\tabA9.png",
       "PackagePath": "staticwebassets\\images\\tabA9.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\teclado.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\teclado.png",
       "PackagePath": "staticwebassets\\images\\teclado.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\televisor.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\televisor.png",
       "PackagePath": "staticwebassets\\images\\televisor.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\televisor4k.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\televisor4k.png",
       "PackagePath": "staticwebassets\\images\\televisor4k.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\images\\ventilador.png",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\images\\ventilador.png",
       "PackagePath": "staticwebassets\\images\\ventilador.png"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\js\\my_chart.js",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\js\\my_chart.js",
       "PackagePath": "staticwebassets\\js\\my_chart.js"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\14-ck0013lab\\Documents\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\TiendaJK\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\elsup\\OneDrive\\Documentos\\GitHub\\JKSTORE\\TiendaJK\\TiendaJK\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

@@ -1,0 +1,281 @@
+<!DOCTYPE <!DOCTYPE html>
+<html>
+    <head>
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Dashboard</title>
+        <link
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" type="text/css" href="style.css">
+
+    </head>
+    <body>
+        <div class="container">
+
+          <!--TARJETAS-->
+            <div class="cardBox">
+                <div class="card">
+                    <div>
+                        <div class="numbers">1,042</div>
+                        <div class="cardName">Visitas de hoy</div>
+                    </div>
+                    <div class="iconBox">
+                        <i class="ri-eye-line"></i>
+
+                    </div>
+
+
+                </div>
+
+                <div class="card">
+                    <div>
+                        <div class="numbers">80</div>
+                        <div class="cardName">Ventas realizadas</div>
+                    </div>
+                    <div class="iconBox">
+                        <i class="ri-shopping-cart-line"></i>
+
+                    </div>
+
+
+                </div>
+
+                <div class="card">
+                    <div>
+                        <div class="numbers">207</div>
+                        <div class="cardName">Comentarios</div>
+                    </div>
+                    <div class="iconBox">
+                        <i class="ri-discuss-line"></i>
+
+                    </div>
+
+
+                </div>
+
+                <div class="card">
+                    <div>
+                        <div class="numbers">$6,047</div>
+                        <div class="cardName">Ganancias</div>
+                    </div>
+                    <div class="iconBox">
+                        <i class="ri-money-dollar-circle-line"></i>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+             <!--AGREGANDO LOS GRAFICOS-->
+
+             <div class="graphBox">
+                <div class="box">
+                    <canvas id="myChart"></canvas>
+                </div>
+                <div class="box">
+                    <canvas id="earning" ></canvas>
+                </div>
+            </div>
+
+
+
+
+
+            <!--CREACION DE LOS DOS PANELES DE LOS DETALLES-->
+
+            <div class="details">
+                <div class="recentOrders">
+                    <div class="carHeader">
+                        <h2>Ordenes recientes</h2>
+                        <a href="#" class="btn">Vista general</a>
+                    </div>
+
+                    <table>
+                        <thead>
+                            <tr>
+                                <td>Nombre</td>
+                                <td>Precio</td>
+                                <td>Estado de pago</td>
+                                <td>Estado</td>
+    
+                            </tr>
+                        </thead>
+    
+                        <tbody>
+
+                            <tr>
+                                <td>PC</td>
+                                <td>$1000</td>
+                                <td>Pagado</td>
+                                <td><span class="status delivered">Disponible</span></td>
+                            </tr>
+
+                            <tr>
+                                <td>Camara instantanea</td>
+                                <td>$99</td>
+                                <td>Pagado</td>
+                                <td><span class="status return">Agotado</span></td>
+                            </tr>
+
+                            <tr>
+                                <td>Smartphone</td>
+                                <td>$699</td>
+                                <td>Pagado</td>
+                                <td><span class="status delivered">Disponible</span></td>
+                            </tr>
+
+                            <tr>
+                                <td>Hp Laptop</td>
+                                <td>$1199</td>
+                                <td>Pagado</td>
+                                <td><span class="status delivered">Disponible</span></td>
+                            </tr>
+
+                            <tr>
+                                <td>Star Smartwatch</td>
+                                <td>$249</td>
+                                <td>Pagado</td>
+                                <td><span class="status delivered">Disponible</span></td>
+                            </tr>
+
+                            <tr>
+                                <td>Tablet</td>
+                                <td>$399</td>
+                                <td>Pagado</td>
+                                <td><span class="status pending">Pocos</span></td>
+                            </tr>
+
+                            <tr>
+                                <td>Auriculares Bluetooth</td>
+                                <td>$129</td>
+                                <td>Pagado</td>
+                                <td><span class="status return">Agotado</span></td>
+                            </tr>
+
+                            <tr>
+                                <td>Televisor 4K</td>
+                                <td>$849</td>
+                                <td>Pagado</td>
+                                <td><span class="status pending">Pocos</span></td>
+                            </tr>
+
+                            <tr>
+                                <td>Cámara DSLR</td>
+                                <td>$60000</td>
+                                <td>Pagado</td>
+                                <td><span class="status delivered">Disponible</span></td>
+                            </tr>
+
+                            <tr>
+                                <td>Drone</td>
+                                <td>$699</td>
+                                <td>Pagado</td>
+                                <td><span class="status delivered">Disponible</span></td>
+                            </tr>
+
+                            <tr>
+                                <td>Altavoz inteligente</td>
+                                <td>$99</td>
+                                <td>Pagado</td>
+                                <td><span class="status delivered">Disponible</span></td>
+                            </tr>
+
+                            <tr>
+                                <td>Router Wi-Fi</td>
+                                <td>$89</td>
+                                <td>Pagado</td>
+                                <td><span class="status return">Agotado</span></td>
+                            </tr>
+
+                            <tr>
+                                <td>Proyector</td>
+                                <td>$499</td>
+                                <td>Pagado</td>
+                                <td><span class="status return">Agotado</span></td>
+                            </tr>
+
+                            <tr>
+                                <td>E-reader</td>
+                                <td>$129</td>
+                                <td>Pagado</td>
+                                <td><span class="status return">Agotado</span></td>
+                            </tr>
+
+                            <tr>
+                                <td>Cámara de seguridad</td>
+                                <td>$179</td>
+                                <td>Pagado</td>
+                                <td><span class="status delivered">Disponible</span></td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+
+               
+
+                <!--Nuevos USUARIOS AGREGADOS PANELL-->
+
+                <div class="recentCustomers">
+                    <div class="carHeader">
+                      <h2>Nuevos usuarios registrados</h2>
+                    </div>
+                    <table>
+                      <tbody>
+
+                        <tr>
+                            <td style="width: 60px;"><div class="imgBx"><img src="Ejemplo1.jpg"></div></td>
+                            <td><h4>Kevin<br><span>Salvadoreno</span></h4></td>
+                        </tr>
+
+                        <tr>
+                            <td style="width: 60px;"><div class="imgBx"><img src="Ejemplo2.png"></div></td>
+                            <td><h4>Josefo<br><span>Indio</span></h4></td>
+                        </tr>
+
+                        <tr>
+                            <td style="width: 60px;"><div class="imgBx"><img src="Ejemplo3.png"></div></td>
+                            <td><h4>Milton<br><span>Salvadoreno</span></h4></td>
+                        </tr>
+
+                        <tr>
+                            <td style="width: 60px;"><div class="imgBx"><img src="Ejemplo4.png"></div></td>
+                            <td><h4>Jasmin<br><span>Salvadoreno</span></h4></td>
+                        </tr>
+
+                        <tr>
+                            <td style="width: 60px;"><div class="imgBx"><img src="Ejemplo5.png"></div></td>
+                            <td><h4>Pedro<br><span>Italiano</span></h4></td>
+                        </tr>
+
+                        <tr>
+                            <td style="width: 60px;"><div class="imgBx"><img src="Ejemplo6.jpg"></div></td>
+                            <td><h4>Katherinne<br><span>Canadiense</span></h4></td>
+                        </tr>
+
+                        <tr>
+                            <td style="width: 60px;"><div class="imgBx"><img src="Ejemplo7.png"></div></td>
+                            <td><h4>Ariana<br><span>Hondurena</span></h4></td>
+                        </tr>
+
+                        <tr>
+                            <td style="width: 60px;"><div class="imgBx"><img src="Ejemplo8.png"></div></td>
+                            <td><h4>Messi<br><span>Argentino</span></h4></td>
+                        </tr>
+
+                      </tbody>  
+                    </table>
+                </div>
+            </div>
+   
+        </div>
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>  
+       <script src="my_chart.js"></script>
+    </body>
+</html>

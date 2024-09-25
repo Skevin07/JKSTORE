@@ -1,0 +1,222 @@
+/* TARJETAS DE PRESENTACION */
+
+.cardBox{
+    position: relative;
+    width: 100%;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 30px;
+}
+.cardBox .card{
+    position: relative;
+    background: #fcfafa;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 7px 25px rgba(0, 0, 0, 0.08);
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+.cardBox .card .numbers{
+    position: relative;
+    font-size: 2.5em;
+    font-weight: 500;
+    color: #0451bddc;
+}
+.cardBox .card .cardName{
+    color: #b9bec2;
+    font-size: 1.1em;
+    margin-top: 5px;
+}
+.cardBox .card .iconBox{
+    font-size: 2.5em;
+    color: rgb(66, 100, 137);
+}
+.cardBox .card:hover{
+    background: #03a9f4;
+}
+.cardBox .card:hover .numbers,
+.cardBox .card:hover .cardName,
+.cardBox .card:hover .iconBox{
+    color: #ffffff;
+}
+
+/* GRAFICOS */
+.graphBox{
+    position: relative;
+    width: 100%;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-gap: 10px;
+    min-height: 200px;
+}
+.graphBox .box{
+    position: relative;
+    background: #ffffff;
+    padding: 1px;
+    width: 90%;
+    box-shadow: 0 7px 25px rgba(0, 0, 0, 0.08);
+    border-radius: 20px;
+}
+
+
+/* PANEL INFERIOR IZQUIERDA */
+.details{
+    position: relative;
+    width: 100%;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: 30px;
+    margin-top: 10px;
+    
+}
+.details .recentOrders{
+    position: relative;
+    min-height: 530px;
+    background: #fcfafa;
+    padding: 20px;
+    box-shadow: 0 7px 25px rgba(0, 0, 0, 0.08);
+    border-radius: 20px;
+}
+.cardHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.cardHeader h2{
+    font-weight: 600 ;
+    color: #1995ce;
+}
+.btn{
+    position: relative;
+    padding: 5px 10px;
+    background: rgb(51, 120, 194);
+    color: #f6f6f6 ;
+    text-decoration: none;
+    border-radius: 6px;
+}
+.details table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+.details table thead td{
+    font-weight: 600;
+}
+.details .recentOrders table tr{
+    border-bottom: 1px solid rgb(222, 220, 220);
+    color: var(#d6d6d6);
+}
+.details .recentOrders table tbody tr:last-child{
+border-bottom: none;
+}
+.details .recentOrders table tbody tr:hover{
+    background: rgb(51, 120, 194);
+    color: #f6f6f6;
+}
+.details .recentOrders table tr td{
+    padding: 9px 5px;
+}
+.details .recentOrders table thead tr td:last-child,
+.details .recentOrders table tbody tr td:last-child{
+    text-align: right;
+}
+.details .recentOrders table thead tr td:nth-child(2),
+.details .recentOrders table tbody tr td:nth-child(2){
+    text-align: right;
+    padding-right: 20px;
+}
+.details .recentOrders table thead tr td:nth-child(3),
+.details .recentOrders table tbody tr td:nth-child(3){
+    text-align: center;
+}
+.status{
+    position: relative;
+    padding: 2px 4px;
+    background: #f00;
+    color: #f6f6f6;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+.delivered{
+    background: #8de02c;
+}
+.pending{
+    background: #f9ca3f;
+}
+.return{
+    background: #f00;
+}
+.inprogress{
+    background: #1995ce;
+}
+
+
+/* PANEL INFERIOR DERECHA */
+
+.details .recentCustomers{
+    position: relative;
+    display: grid;
+    min-height: 500px;
+    background: #fcfafa;
+    padding: 20px;
+    box-shadow: 0 7px 25px rgba(0, 0, 0, 0.08);
+    border-radius: 20px;
+}
+.details .recentCustomers .imgBx{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.details .recentCustomers .imgBx img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.details .recentCustomers table tr:hover,
+.details .recentCustomers table tr:hover td h4 span{
+    font-size: 14px;
+    color: #ffffff;
+}
+.details .recentCustomers table tr:hover{
+    background: #03a9f4;
+    color: #f6f6f6;
+}
+.details .recentCustomers table tr td{
+    padding: 7px 10px;
+}
+.details .recentCustomers table tr td h4{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.2em;
+}
+
+/*Lo de responsive*/
+@media (max-width: 992px){
+
+    .graphBox{
+        grid-template-columns: 1fr;
+        height: auto;
+    }
+
+    .main{
+        width: 100%;
+        left: 0;
+    }
+    .main.active{
+        width: calc(100% - 300px);
+        left: px;
+    }
+
+}
+
